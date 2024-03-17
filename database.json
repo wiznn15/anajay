@@ -4686,7 +4686,7 @@
       "banned": false
     },
     "6282245754509@s.whatsapp.net": {
-      "exp": 1205,
+      "exp": 1698,
       "limit": 25,
       "afk": -1,
       "afkReason": "",
@@ -6602,7 +6602,7 @@
       "sDemote": "",
       "delete": true,
       "antiLink": false,
-      "viewonce": false,
+      "viewonce": true,
       "simi": false,
       "expired": 0,
       "autoSticker": false,
@@ -6707,10 +6707,10 @@
   },
   "stats": {
     "enable.js": {
-      "total": 219,
-      "success": 219,
-      "last": 1710020945050,
-      "lastSuccess": 1710020945050
+      "total": 224,
+      "success": 224,
+      "last": 1710651260697,
+      "lastSuccess": 1710651260697
     },
     "info-bot.js": {
       "total": 122,
@@ -6779,16 +6779,16 @@
       "lastSuccess": 1710649932285
     },
     "menu.js": {
-      "total": 219,
-      "success": 218,
-      "last": 1710649771746,
-      "lastSuccess": 1710649771746
+      "total": 221,
+      "success": 220,
+      "last": 1710650963044,
+      "lastSuccess": 1710650963044
     },
     "allmenu.js": {
-      "total": 127,
-      "success": 126,
-      "last": 1710649930845,
-      "lastSuccess": 1710618490257
+      "total": 129,
+      "success": 128,
+      "last": 1710650563319,
+      "lastSuccess": 1710650563319
     },
     "anime-random.js": {
       "total": 25,
@@ -6911,10 +6911,10 @@
       "lastSuccess": 1709887714738
     },
     "downloader-ig.js": {
-      "total": 221,
-      "success": 220,
-      "last": 1710609903552,
-      "lastSuccess": 1710609903552
+      "total": 223,
+      "success": 222,
+      "last": 1710652901165,
+      "lastSuccess": 1710652901165
     },
     "waifu-neko-megumin.js": {
       "total": 21,
@@ -6935,10 +6935,10 @@
       "lastSuccess": 1709542104117
     },
     "creator.js": {
-      "total": 51,
-      "success": 51,
-      "last": 1710610289343,
-      "lastSuccess": 1710610289343
+      "total": 52,
+      "success": 52,
+      "last": 1710650456559,
+      "lastSuccess": 1710650456559
     },
     "games-tebakkata_hint.js": {
       "total": 8,
@@ -7043,10 +7043,10 @@
       "lastSuccess": 1710018797335
     },
     "speed.js": {
-      "total": 77,
-      "success": 77,
-      "last": 1710649782437,
-      "lastSuccess": 1710649782437
+      "total": 79,
+      "success": 79,
+      "last": 1710652910869,
+      "lastSuccess": 1710652910869
     },
     "listgc.js": {
       "total": 12,
@@ -7331,10 +7331,10 @@
       "lastSuccess": 1709992007624
     },
     "fun-fun.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1709862606585,
-      "lastSuccess": 1709862606585
+      "total": 10,
+      "success": 10,
+      "last": 1710650532431,
+      "lastSuccess": 1710650532431
     },
     "gcbot.js": {
       "total": 7,
@@ -7811,16 +7811,28 @@
       "lastSuccess": 1710020630751
     },
     "owner-cleartmp.js": {
-      "total": 5,
-      "success": 0,
-      "last": 1710617937852,
-      "lastSuccess": 0
+      "total": 6,
+      "success": 1,
+      "last": 1710652660969,
+      "lastSuccess": 1710652660969
     },
     "server.js": {
       "total": 2,
       "success": 2,
       "last": 1710617206718,
       "lastSuccess": 1710617206718
+    },
+    "info-dash.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1710650494848,
+      "lastSuccess": 1710650494848
+    },
+    "info-speedtest.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1710651112713,
+      "lastSuccess": 1710651112713
     }
   },
   "msgs": {},

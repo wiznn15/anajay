@@ -4686,7 +4686,7 @@
       "banned": false
     },
     "6282245754509@s.whatsapp.net": {
-      "exp": 1072,
+      "exp": 1205,
       "limit": 25,
       "afk": -1,
       "afkReason": "",
@@ -6773,21 +6773,21 @@
       "lastSuccess": 1710016457470
     },
     "manggilataup.js": {
-      "total": 142,
-      "success": 142,
-      "last": 1710641508096,
-      "lastSuccess": 1710641508096
+      "total": 143,
+      "success": 143,
+      "last": 1710649932285,
+      "lastSuccess": 1710649932285
     },
     "menu.js": {
-      "total": 217,
-      "success": 216,
-      "last": 1710645667271,
-      "lastSuccess": 1710645667271
+      "total": 219,
+      "success": 218,
+      "last": 1710649771746,
+      "lastSuccess": 1710649771746
     },
     "allmenu.js": {
-      "total": 126,
+      "total": 127,
       "success": 126,
-      "last": 1710618490257,
+      "last": 1710649930845,
       "lastSuccess": 1710618490257
     },
     "anime-random.js": {
@@ -7043,10 +7043,10 @@
       "lastSuccess": 1710018797335
     },
     "speed.js": {
-      "total": 76,
-      "success": 76,
-      "last": 1710618747534,
-      "lastSuccess": 1710618747534
+      "total": 77,
+      "success": 77,
+      "last": 1710649782437,
+      "lastSuccess": 1710649782437
     },
     "listgc.js": {
       "total": 12,
